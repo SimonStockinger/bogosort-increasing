@@ -71,7 +71,22 @@ public class BogoSortIncreasing {
 	}
     }
 
+    private static void init(String[] args) {
+        if (args.length == 0) {
+            return;
+        } else if (args.length > 1) {
+            throw new IllegalArgumentException("Invalid number of Arguments");
+        }
+
+        switch (args[0]) {
+            case "on" -> printEnabled = true;
+            case "off" -> printEnabled = false;
+            default -> throw new IllegalArgumentException("Invalid Command passed");
+        }
+    }
+
     public static void main(String[] args) {
+        init(args);
 
         // Command input thread
         Thread inputThread = new Thread(() -> {
