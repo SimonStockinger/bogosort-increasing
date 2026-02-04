@@ -68,7 +68,7 @@ public class BogoSortIncreasing {
             sdl.drain();
         } catch(Exception e) {
 	    System.out.println("Error: " + e.getMessage());
-	}
+		}
     }
 
     private static void init(String[] args) {
