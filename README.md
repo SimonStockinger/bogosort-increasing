@@ -13,16 +13,24 @@ Simple BogoSort script which raises the size of the array by one each time an ar
 
 ### Usage
 Programm argumeters:
+
 `java BogoSortIncreasing on`: Starts Programm with printing enabled 
+
 `java BogoSortIncreasing off`: Starts Programm with printing disabled
+
 `java BogoSortIncreasing`: Starts Programm with printing disabled
 
 Commands:
+
 `on`: Turns on printing
+
 `off`: Turns off printing
+
 `toggle`: Switches printing
+
 `quit`: Terminates programm
 
 ## bogosort-increasing.cpp (05.02.2026)
 Optimised code in a faster language.
+
 Makes (heavy) use of multi-threading.
