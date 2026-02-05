@@ -9,7 +9,7 @@ Q.E.D.
 ---
 
 ## bogosort-increasing.java (29.01.2026)
-@author [Simon Stockinger](https://github.com/simonstockinger)
+Author: [Simon Stockinger](https://github.com/simonstockinger)
 
 Simple BogoSort script which raises the size of the array by one each time an array is sorted successfully. 
 
@@ -38,7 +38,7 @@ Commands:
 
 
 ## bogosort-increasing.cpp (05.02.2026)
-@author [Martin B.](https://github.com/spacerocket007)
+Author: [Martin B.](https://github.com/spacerocket007)
 
 Optimised code in a faster language.
 
