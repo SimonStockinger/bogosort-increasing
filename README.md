@@ -43,7 +43,7 @@ Optimised code in a faster language.
 
 Makes (heavy... HEAVY) use of multi-threading.
 
-### Usage
+### Usage (don't)
 **Compile and run**
 
 `g++ BogosortIncreasing.cpp -o BogoSortIncreasing`, `./BogoSortIncreasing`
