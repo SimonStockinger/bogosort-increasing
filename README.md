@@ -8,7 +8,7 @@
 
 ---
 
-## bogosort-increasing.java (29.01.2026)
+## BogoSortIncreasing.java (29.01.2026)
 *Author:* [Simon Stockinger](https://github.com/simonstockinger)
 
 Simple BogoSort script which raises the size of the array by one each time an array is sorted successfully. 
@@ -36,7 +36,7 @@ Simple BogoSort script which raises the size of the array by one each time an ar
 
 `quit`: Terminates programm
 
-## bogosort-increasing.cpp (05.02.2026)
+## BogoSortIncreasing.cpp (05.02.2026)
 *Author:* [Martin B.](https://github.com/spacerocket007)
 
 Optimised code in a faster language.
